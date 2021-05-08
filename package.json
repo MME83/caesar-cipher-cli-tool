@@ -1,0 +1,26 @@
+{
+  "name": "caeser-cli",
+  "version": "1.0.0",
+  "description": "Caesar Cipher Tool by Node.js",
+  "main": "caesar-cli.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MME83/caesar-cipher-cli-tool.git"
+  },
+  "keywords": [
+    "nodejs",
+    "minimist"
+  ],
+  "author": "MME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MME83/caesar-cipher-cli-tool/issues"
+  },
+  "homepage": "https://github.com/MME83/caesar-cipher-cli-tool#readme",
+  "devDependencies": {
+    "minimist": "^1.2.5"
+  }
+}
