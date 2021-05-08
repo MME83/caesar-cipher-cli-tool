@@ -22,5 +22,8 @@
   "homepage": "https://github.com/MME83/caesar-cipher-cli-tool#readme",
   "devDependencies": {
     "minimist": "^1.2.5"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
   }
 }
